@@ -10,3 +10,4 @@ This is a simple task management API built using **FastAPI** with **Docker** and
 
 ## Setup and Run
 
+docker-compose up --build
